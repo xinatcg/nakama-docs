@@ -36,3 +36,4 @@ pip-delete-this-directory.txt
 # VSCode
 .vscode/*
 .history/
+*.iml
